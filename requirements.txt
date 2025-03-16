@@ -1,7 +1,7 @@
 joblib==1.4.2
 matplotlib==3.10.1
 matplotlib-inline==0.1.7
-numbpy==1.26.4
+numpy==1.26.4
 pandas==2.2.3
 scikit-learn==1.4.1.post1
 seaborn==0.13.2
